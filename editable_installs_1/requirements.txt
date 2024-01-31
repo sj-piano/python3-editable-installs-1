@@ -1,0 +1,5 @@
+# PyPI imports
+pytest==8.0.0
+
+# Github imports
+python3-editable-installs-2 @ git+https://github.com/sj-piano/python3-editable-installs-2
