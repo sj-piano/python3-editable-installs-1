@@ -1,5 +1,6 @@
 from setuptools import setup
 
+
 setup(
     name='python3-editable-installs-1',
     version='0.1.0',
